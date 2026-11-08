@@ -1,0 +1,48 @@
+[
+  {
+    "case_id": "eval_en_01",
+    "language": "en",
+    "category": "academic",
+    "question": "How do I apply for deferment of study and what is the deadline?",
+    "expected_page": 2,
+    "expected_keywords": ["deferment", "week", "four", "medical", "certificate"],
+    "reference_facts": "Applications for deferment of study must be submitted by week four (4) of the semester via the student portal. Medical deferment requires an official hospital medical certificate."
+  },
+  {
+    "case_id": "eval_ms_02",
+    "language": "ms",
+    "category": "academic",
+    "question": "Bagaimanakah cara memohon penangguhan pengajian atas sebab kesihatan?",
+    "expected_page": 2,
+    "expected_keywords": ["deferment", "penangguhan", "week", "minggu", "medical", "perubatan"],
+    "reference_facts": "Pelajar perlu mengemukakan permohonan penangguhan pengajian selewat-lewatnya minggu keempat (4) semester beserta sijil perubatan rasmi daripada hospital."
+  },
+  {
+    "case_id": "eval_en_03",
+    "language": "en",
+    "category": "academic",
+    "question": "When is the course registration add and drop window open?",
+    "expected_page": 1,
+    "expected_keywords": ["add", "drop", "first", "two", "weeks", "kursus"],
+    "reference_facts": "Students may add or drop courses during the first two (2) weeks of the semester."
+  },
+  {
+    "case_id": "eval_ms_04",
+    "language": "ms",
+    "category": "facilities",
+    "question": "Apakah waktu operasi perpustakaan utama universiti?",
+    "expected_page": 1,
+    "expected_keywords": ["perpustakaan", "library", "isnin", "jumaat", "8:00", "10:00"],
+    "reference_facts": "Perpustakaan Utama dibuka setiap hari Isnin hingga Jumaat dari jam 8:00 pagi hingga 10:00 malam."
+  },
+  {
+    "case_id": "eval_en_05",
+    "language": "en",
+    "category": "facilities",
+    "question": "Who is eligible to apply for on-campus hostel accommodation?",
+    "expected_page": 2,
+    "expected_keywords": ["asrama", "kolej", "kediaman", "hostel", "tahun", "pertama", "first"],
+    "reference_facts": "On-campus hostel accommodation (Kolej Kediaman dan Asrama) is open to all first-year undergraduate students."
+  }
+]
+
